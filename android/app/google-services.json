@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "869862952718",
+    "firebase_url": "https://firestorage-cd547.firebaseio.com",
+    "project_id": "firestorage-cd547",
+    "storage_bucket": "firestorage-cd547.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869862952718:android:35dfbc0f7ca8ef594ad15f",
+        "android_client_info": {
+          "package_name": "com.example.sneaker_head"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869862952718-j8so27mmr48il70ttso3ool6h7ta1aia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs3yfAUP9eBe0mG8kyl34fN4iYretprSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869862952718-j8so27mmr48il70ttso3ool6h7ta1aia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
